@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Longbottom Logs</title>
+  
+  <subtitle>from Seoul Longbottom</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://seoullongbottom.github.io/"/>
+  <updated>2018-12-28T03:27:00.809Z</updated>
+  <id>https://seoullongbottom.github.io/</id>
+  
+  <author>
+    <name>Seoul Longbottom</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>회고, 2018</title>
+    <link href="https://seoullongbottom.github.io/2018/12/28/%ED%9A%8C%EA%B3%A0-2018/"/>
+    <id>https://seoullongbottom.github.io/2018/12/28/회고-2018/</id>
+    <published>2018-12-28T03:27:00.000Z</published>
+    <updated>2018-12-28T03:27:00.809Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="0"><a href="#0" class="headerlink" title="0"></a>0</h3>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;0&quot;&gt;&lt;a href=&quot;#0&quot; class=&quot;headerlink&quot; title=&quot;0&quot;&gt;&lt;/a&gt;0&lt;/h3&gt;
+      
+    
+    </summary>
+    
+    
+      <category term="회고" scheme="https://seoullongbottom.github.io/tags/%ED%9A%8C%EA%B3%A0/"/>
+    
+      <category term="2018" scheme="https://seoullongbottom.github.io/tags/2018/"/>
+    
+      <category term="Longbottom" scheme="https://seoullongbottom.github.io/tags/Longbottom/"/>
+    
+      <category term="log" scheme="https://seoullongbottom.github.io/tags/log/"/>
+    
+  </entry>
+  
+</feed>
